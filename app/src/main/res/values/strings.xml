@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Experiments</string>
+    <string name="text">
+       Touch Me!
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_start_stop">Start</string>
+
+</resources>
